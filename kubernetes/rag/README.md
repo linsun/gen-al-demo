@@ -2,7 +2,7 @@
 
 ## Deploy RAG
 ```sh
-kubectl apply -f rag.yaml
+kubectl apply -f opea-rag.yaml
 ```
 
 ## Access UI
